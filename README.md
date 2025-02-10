@@ -1,9 +1,2 @@
 # practice_project
-Our practice project 
-<br>
-THis is from Mistoo
-Hi to sudeep
-
-This is Ruku
-
-This is Surz 
+This is a test 
