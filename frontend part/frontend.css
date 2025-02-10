@@ -2,7 +2,7 @@ h1{
     color: aqua;
 }
 h1:hover{
-    text-shadow: #007bff;
+    text-shadow: #73a8e1;
 }
 body {
     font-family: Arial, sans-serif;
@@ -21,7 +21,7 @@ body {
     width: 350px;
 }
 .container:hover{
-    background-color: ;
+    background-color: lightcyan;
 }
 input, select, label {
     width: 100%;
@@ -39,7 +39,7 @@ input, select, label {
     align-items: center;
     justify-content: center;
     padding: 5px 10px;
-    background: #007bff;
+    background: red;
     color: white;
     border-radius: 5px;
     cursor: pointer;
