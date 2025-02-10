@@ -79,3 +79,6 @@ button:hover {
     border-radius: 5px;
     display: none;
 }
+h1:hover{
+    text-shadow: #007bff;
+}
