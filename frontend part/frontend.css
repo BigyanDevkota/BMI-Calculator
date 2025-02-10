@@ -1,8 +1,8 @@
 h1{
-    color: aqua;
+    color: red;
 }
 h1:hover{
-    text-shadow: #73a8e1;
+    color: aqua;
 }
 h2:hover{
     color: red;
