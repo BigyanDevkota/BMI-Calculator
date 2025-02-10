@@ -1,6 +1,9 @@
 h1{
     color: aqua;
 }
+h1:hover{
+    text-shadow: #007bff;
+}
 body {
     font-family: Arial, sans-serif;
     display: flex;
@@ -70,7 +73,4 @@ button:hover {
     padding: 10px;
     border-radius: 5px;
     display: none;
-}
-h1:hover{
-    text-shadow: #007bff;
 }
