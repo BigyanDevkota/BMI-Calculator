@@ -4,6 +4,9 @@ h1{
 h1:hover{
     text-shadow: #73a8e1;
 }
+h2:hover{
+    color: red;
+}
 body {
     font-family: Arial, sans-serif;
     display: flex;
@@ -39,7 +42,7 @@ input, select, label {
     align-items: center;
     justify-content: center;
     padding: 5px 10px;
-    background: red;
+    background: rgb(238, 108, 108);
     color: white;
     border-radius: 5px;
     cursor: pointer;
@@ -49,7 +52,7 @@ input, select, label {
     display: none;
 }
 .radio-group input:checked + label {
-    background: #0056b3;
+    background: red;
 }
 button {
     padding: 10px 15px;
